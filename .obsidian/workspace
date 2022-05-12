@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/模組.md",
+            "file": "Vite/Vite.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/模組.md",
+                "file": "Vite/Vite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +102,8 @@
   },
   "active": "9993ca2dfc087a01",
   "lastOpenFiles": [
+    "Vite/Vite.md",
+    "未命名.md",
     "JavaScript/模組.md",
     "Template/日期和別名.md",
     "測試功能用.md",
@@ -109,8 +111,6 @@
     "JavaScript/Object 物件/Date/Date.prototype/Date.prototype方法.md",
     "JavaScript/Object 物件/Date/Date.prototype/Date.prototype.md",
     "JavaScript/Object 物件/Date/Date.md",
-    "JavaScript/短路運算.md",
-    "JavaScript/正則表示式.md",
-    "JavaScript/Object 物件/Document/DOM操作/事件物件.md"
+    "JavaScript/短路運算.md"
   ]
 }
