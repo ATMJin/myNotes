@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vite/Vite.md",
+            "file": "JavaScript/模組.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vite/Vite.md",
+                "file": "JavaScript/模組.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +102,9 @@
   },
   "active": "9993ca2dfc087a01",
   "lastOpenFiles": [
+    "JavaScript/模組.md",
     "Vite/Vite.md",
     "未命名.md",
-    "JavaScript/模組.md",
     "Template/日期和別名.md",
     "測試功能用.md",
     "Markdown語法.md",
