@@ -1,0 +1,1 @@
+$$實際寬度 = 寬度Width + 2\times外距Margin + 2\times內距Padding + 2\times邊框線[[Border]]$$

@@ -1,0 +1,7 @@
+- 2D形變，用屬性值設定形變效果
+- transform-origin( )  設定形變中心，預設為元素中心(50% 50%)
+- transform: rotate( )  旋轉，如:transform: rotate(20deg)
+- transform: scale( )  縮放，如transform: scale(倍率)
+- transform: translate( )  位移
+- transform: skew(x軸角度, y軸角度 )  傾斜
+- 

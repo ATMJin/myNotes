@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "5662d4817e18bf39",
+    "type": "split",
+    "children": [
+      {
+        "id": "9993ca2dfc087a01",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "JavaScript/模組.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "664ba175581c4aeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1582169cb8c684da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57dd65060fab5440",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "104af22c3ebc4b07",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 216
+  },
+  "right": {
+    "id": "d9f088cd67e69ed7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef8d1b2eef1b60e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fda77cf28ec6bbaf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JavaScript/模組.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "dcdbf1193061084d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JavaScript/短路運算.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9993ca2dfc087a01",
+  "lastOpenFiles": [
+    "JavaScript/模組.md",
+    "Template/日期和別名.md",
+    "測試功能用.md",
+    "Markdown語法.md",
+    "JavaScript/Object 物件/Date/Date.prototype/Date.prototype方法.md",
+    "JavaScript/Object 物件/Date/Date.prototype/Date.prototype.md",
+    "JavaScript/Object 物件/Date/Date.md",
+    "JavaScript/短路運算.md",
+    "JavaScript/正則表示式.md",
+    "JavaScript/Object 物件/Document/DOM操作/事件物件.md"
+  ]
+}

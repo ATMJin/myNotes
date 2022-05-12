@@ -1,0 +1,29 @@
+- text  純文字
+- checkbox  確認
+- radio  單選
+- password  密碼，輸入值會被隱藏
+- file  可上傳檔案
+  - 可限制使用者上傳檔案的類型，如`accept="image/*"`限定使用者選擇圖檔
+  - 父元素form的method屬性值要設定成"post"，並設定enctype屬性
+  - enctype為編碼類型，預設為enctype="application/x-www-form-urlencoded"，不能傳遞檔案。須改成enctype="multipart/form-data"
+- hidden  使用者不可見的隱藏回傳區
+- reset  清除、**重置**按鈕
+- button  單純按鈕
+- submit  將輸入的值回傳的按鈕
+- image  用圖片顯示的回傳鈕，會回傳座標，使用時須附上src跟alt
+---
+HTML5新增
+- search  搜尋欄，後面會顯示清除的x
+- email  電子信箱
+- url  網址
+- tel  電話
+- number  數字
+- range  可拉動的數值條，用max,min屬性設定範圍
+- color  顏色盤
+- date  日期(年月日)
+- month  月
+- week  星期
+- time  時間
+- datetime-local  使用者的日期加時間
+- datetime  已被datetime-local取代
+

@@ -1,0 +1,2 @@
+- border-box  從[[border]]開始計算寬高
+- content-box  從content區域計算寬高，預設值

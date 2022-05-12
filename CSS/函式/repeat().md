@@ -1,0 +1,1 @@
+重複相同屬性值，如grid-template-columns: auto auto auto; 可改寫成grid-template-columns: repeat(3, auto);

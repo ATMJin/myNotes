@@ -1,0 +1,2 @@
+JavaScript的函式庫，用於簡化HTML與JavaScript之間的操作
+

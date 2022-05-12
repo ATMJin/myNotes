@@ -1,0 +1,36 @@
+- 自動排列且自動分配寬度，屬於區塊類型
+- 內部Items預設等高
+# Container設定
+- 設定flex屬性的元素稱作Container，第一層子元素稱作Items
+- 隱藏屬性有主軸(main axis)與交錯軸(cross axis)，items依序延主軸排列，預設橫向，可使用CSS屬性flex-direction改變設定
+  - 主軸方向為語言書寫方向 
+  - flex-direction: row  預設值，橫向左至右排列
+  - flex-direction: row-reverse  橫向右至左
+  - flex-direction: column  直向上至下
+  - flex-direction: column-reverse  直向下至上
+- 預設不會換行，當有多項子元素時會擠在同一列，用CSS屬性flex-wrap改變設定
+  - flex-wrap: nowrap  預設值，不換行
+  - flex-wrap: wrap  換行，沿交錯軸
+  - flex-wrap: wrap-reverse  換行，但從下往上排列，沿交錯軸反方向
+- flex-direction與flex-wrap可合併成flex-flow撰寫，如: flex-flow: row wrap
+- CSS屬性justify-content設定Items在排中的對齊方式
+  - justify-content: flex-start 預設值，Items首項對齊container開頭
+  - justify-content: flex-end Items尾項對齊container尾端
+  - justify-content: center 置中
+  - justify-content: space-between 以中間插入空白的方式，平均分散排列
+  - justify-content: space-around  同space-between，但左右留白，間距是邊距的兩倍
+  - justify-content: space-evenly  同space-between，但左右留白，間距等同邊距
+- CSS屬性align-content，設定Items有多排時彈性列在交錯軸的對齊方式，預設值為stretch，將空間扣去彈性列中最高的Item再做分配，其他屬性值同justify-content
+- CSS屬性align-items，設定Items在交錯軸彈性列中的排列方式，預設值為stretch
+  - align-items: flex-start 在該排中對齊前端
+  - align-items: flex-end 在該排中對齊後端
+  - align-items: center 在該排中對齊中間
+  - align-items: baseline 在該排中對齊文字基線
+ # Items單獨設定
+ - align-self  同align-items，但只單獨設定某Items在該彈性列的定位，預設值為auto。屬性值亦同align-items
+ - order  設定Items的顯示順序。預設值為0，數字小順位優先，同數字則看html內編寫順序
+ - flex-grow  自動擴展，將Container中剩餘的空白區域分配給Items。屬性值為分配比例，預設值為0。
+ - flex-shrink  自動壓縮。若Items總相加長度多於Container範圍時，Items會被自動壓縮。屬性值是壓縮比例(非占整體比例)，預設為1，0為不壓縮。
+ - flex-basis  設定單獨Items沿主軸的長度，優先度高於長寬
+ - flex  是flex-grow、flex-shrink、flex-basis三者合體的縮寫，照順序
+ - 

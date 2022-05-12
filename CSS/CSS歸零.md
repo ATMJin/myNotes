@@ -1,0 +1,1 @@
+CSS歸零大致上可分為CSS reset與CSS normalize，使用方法皆是下載各自的css檔後用`<link href="" rel="stylesheet">`加入文件
