@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/模組.md",
+            "file": "JavaScript/解構賦值.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/模組.md",
+                "file": "JavaScript/解構賦值.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +102,7 @@
   },
   "active": "9993ca2dfc087a01",
   "lastOpenFiles": [
+    "JavaScript/解構賦值.md",
     "JavaScript/模組.md",
     "Vite/Vite.md",
     "未命名.md",
@@ -110,7 +111,6 @@
     "Markdown語法.md",
     "JavaScript/Object 物件/Date/Date.prototype/Date.prototype方法.md",
     "JavaScript/Object 物件/Date/Date.prototype/Date.prototype.md",
-    "JavaScript/Object 物件/Date/Date.md",
-    "JavaScript/短路運算.md"
+    "JavaScript/Object 物件/Date/Date.md"
   ]
 }
