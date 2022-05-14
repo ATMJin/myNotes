@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vue/methods.md",
+            "file": "Vue/filters.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vue/methods.md",
+                "file": "Vue/filters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,10 +102,10 @@
   },
   "active": "9993ca2dfc087a01",
   "lastOpenFiles": [
-    "Vue/methods.md",
     "Vue/filters.md",
-    "Markdown語法.md",
+    "Vue/methods.md",
     "Vue/computed.md",
+    "Markdown語法.md",
     "Vue/Vue基本使用.md",
     "Vue/建立Vue實體並掛載.md",
     "未命名.md",
