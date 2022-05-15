@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vue/filters.md",
+            "file": "TypeScript/型別宣告.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vue/filters.md",
+                "file": "TypeScript/型別宣告.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +102,7 @@
   },
   "active": "9993ca2dfc087a01",
   "lastOpenFiles": [
+    "TypeScript/型別宣告.md",
     "Vue/filters.md",
     "Vue/methods.md",
     "Vue/computed.md",
@@ -110,7 +111,6 @@
     "Vue/建立Vue實體並掛載.md",
     "未命名.md",
     "JavaScript/解構賦值.md",
-    "JavaScript/模組.md",
-    "Vite/Vite.md"
+    "JavaScript/模組.md"
   ]
 }
