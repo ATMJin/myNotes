@@ -11,8 +11,8 @@ aliases: []
 
 ## radio / checkbox
 ```js
-<input type="radio" name="sex" id="">
-<input type="radio" name="sex" id="">
+<input type="radio" name="sex" id="" >
+<input type="radio" name="sex" id="" >
 ```
 
 ```js
