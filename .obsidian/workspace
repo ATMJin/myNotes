@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vue/filters.md",
+            "file": "JavaScript/處理錯誤.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vue/filters.md",
+                "file": "JavaScript/處理錯誤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +102,7 @@
   },
   "active": "9993ca2dfc087a01",
   "lastOpenFiles": [
+    "JavaScript/處理錯誤.md",
     "Vue/filters.md",
     "TypeScript/Tuple.md",
     "JavaScript/陣列.md",
@@ -110,7 +111,6 @@
     "TypeScript/型別宣告.md",
     "Vue/建立Vue實體並掛載.md",
     "Vue/computed.md",
-    "Vue/Vue基本使用.md",
-    "Vue/methods.md"
+    "Vue/Vue基本使用.md"
   ]
 }
