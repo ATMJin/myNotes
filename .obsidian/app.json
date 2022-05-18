@@ -3,5 +3,6 @@
   "livePreview": true,
   "useTab": false,
   "tabSize": 2,
-  "promptDelete": false
+  "promptDelete": false,
+  "newFileLocation": "current"
 }
