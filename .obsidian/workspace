@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vue/Vue基本使用.md",
+            "file": "Vue/指令/v-text.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vue/Vue基本使用.md",
+                "file": "Vue/指令/v-text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +102,15 @@
   },
   "active": "9993ca2dfc087a01",
   "lastOpenFiles": [
-    "Vue/Vue基本使用.md",
+    "Vue/指令/v-text.md",
+    "Vue/指令/v-html.md",
     "Vue/指令/v-model.md",
+    "Vue/Vue基本使用.md",
     "Vue/指令/v-bind.md",
     "Vue/filters.md",
     "JavaScript/處理錯誤.md",
     "TypeScript/Tuple.md",
     "JavaScript/陣列.md",
-    "JavaScript/Object 物件/Math/Math方法.md",
-    "JavaScript/Object 物件/Math/Math.md",
-    "TypeScript/型別宣告.md"
+    "JavaScript/Object 物件/Math/Math方法.md"
   ]
 }
