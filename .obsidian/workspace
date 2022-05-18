@@ -103,14 +103,14 @@
   "active": "9993ca2dfc087a01",
   "lastOpenFiles": [
     "Vue/指令/v-on.md",
-    "Vue/指令/v-model.md",
     "JavaScript/Object 物件/Document/DOM操作/事件物件.md",
+    "JavaScript/Object 物件/Document/DOM操作/事件擴散.md",
+    "JavaScript/Object 物件/Document/DOM操作/設定事件.md",
+    "JavaScript/Object 物件/Document/DOM操作/js事件.md",
+    "Vue/指令/v-model.md",
     "Vue/應用/樣式綁定.md",
     "Vue/指令/v-pre.md",
     "Vue/指令/v-once.md",
-    "Vue/指令/v-text.md",
-    "Vue/指令/v-html.md",
-    "Vue/Vue基本使用.md",
-    "Vue/指令/v-bind.md"
+    "Vue/指令/v-text.md"
   ]
 }
