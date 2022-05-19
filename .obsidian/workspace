@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vue/生命週期.md",
+            "file": "Vue/$nextTick.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vue/生命週期.md",
+                "file": "Vue/$nextTick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +102,15 @@
   },
   "active": "9993ca2dfc087a01",
   "lastOpenFiles": [
+    "Vue/$nextTick.md",
+    "Vue/watch.md",
+    "Vue/methods.md",
+    "Vue/filters.md",
+    "Vue/computed.md",
     "Vue/生命週期.md",
     "Markdown語法.md",
     "Vue/指令/v-for.md",
-    "Vue/filters.md",
-    "Vue/computed.md",
     "Vue/指令/v-pre.md",
-    "Vue/指令/v-if.md",
-    "JavaScript/陣列.md",
-    "Vue/指令/v-show.md",
-    "Vue/指令/v-else.md"
+    "Vue/指令/v-if.md"
   ]
 }
