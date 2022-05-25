@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/短路運算.md",
+            "file": "Vue/生命週期.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/短路運算.md",
+                "file": "Vue/生命週期.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +102,8 @@
   },
   "active": "9993ca2dfc087a01",
   "lastOpenFiles": [
-    "JavaScript/短路運算.md",
     "Vue/生命週期.md",
+    "JavaScript/短路運算.md",
     "Vue/取得DOM元素.md",
     "Vue/指令/v-bind.md",
     "Vue/指令/v-html.md",
