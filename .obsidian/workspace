@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/陣列.md",
+            "file": "Vue/指令/v-model.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "table",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/陣列.md",
+                "file": "Vue/指令/v-model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +102,15 @@
   },
   "active": "9993ca2dfc087a01",
   "lastOpenFiles": [
+    "Vue/指令/v-model.md",
+    "HTML/標記元素/table.md",
+    "JavaScript/Object 物件/Date/Date.prototype/Date.prototype方法.md",
+    "JavaScript/Object 物件/Date/Date.prototype/Date.prototype.md",
     "JavaScript/陣列.md",
     "Git/Git操作.md",
     "Vue/生命週期.md",
     "JavaScript/短路運算.md",
     "Vue/取得DOM元素.md",
-    "Vue/指令/v-bind.md",
-    "Vue/指令/v-html.md",
-    "Vue/指令/v-if.md",
-    "Vue/指令/v-on.md",
-    "Vue/$nextTick.md"
+    "Vue/指令/v-bind.md"
   ]
 }
