@@ -9,7 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vue/指令/v-model.md",
+            "file": "HTML/表單/input type.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "632193753df619e4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "JavaScript/陣列.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "table",
+                "query": "input",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -70,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vue/指令/v-model.md",
+                "file": "HTML/表單/input type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +116,15 @@
   },
   "active": "9993ca2dfc087a01",
   "lastOpenFiles": [
+    "HTML/表單/input type.md",
+    "HTML/表單/input屬性.md",
+    "HTML/表單/input.md",
     "Vue/指令/v-model.md",
+    "JavaScript/陣列.md",
     "HTML/標記元素/table.md",
     "JavaScript/Object 物件/Date/Date.prototype/Date.prototype方法.md",
     "JavaScript/Object 物件/Date/Date.prototype/Date.prototype.md",
-    "JavaScript/陣列.md",
     "Git/Git操作.md",
-    "Vue/生命週期.md",
-    "JavaScript/短路運算.md",
-    "Vue/取得DOM元素.md",
-    "Vue/指令/v-bind.md"
+    "Vue/生命週期.md"
   ]
 }
