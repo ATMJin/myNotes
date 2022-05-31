@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/Git操作.md",
+            "file": "JavaScript/陣列.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git操作.md",
+                "file": "JavaScript/陣列.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +102,7 @@
   },
   "active": "9993ca2dfc087a01",
   "lastOpenFiles": [
+    "JavaScript/陣列.md",
     "Git/Git操作.md",
     "Vue/生命週期.md",
     "JavaScript/短路運算.md",
@@ -110,7 +111,6 @@
     "Vue/指令/v-html.md",
     "Vue/指令/v-if.md",
     "Vue/指令/v-on.md",
-    "Vue/$nextTick.md",
-    "Vue/watch.md"
+    "Vue/$nextTick.md"
   ]
 }
