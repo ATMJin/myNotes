@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/Object/Option.md",
+            "file": "TypeScript/型別宣告.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Object/Option.md",
+                "file": "TypeScript/型別宣告.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,13 +102,13 @@
   },
   "active": "9993ca2dfc087a01",
   "lastOpenFiles": [
+    "TypeScript/型別宣告.md",
     "JavaScript/Object/Option.md",
     "JavaScript/Object 物件/navigator.md",
     "JavaScript/Object 物件/未命名.md",
     "JavaScript/Object 物件/宣告物件.md",
     "JavaScript/Object 物件/prototype.md",
     "TypeScript/未命名.md",
-    "TypeScript/型別宣告.md",
     "HTML/表單/input type.md",
     "HTML/表單/input屬性.md",
     "HTML/表單/input.md"
