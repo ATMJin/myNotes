@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TypeScript/型別宣告/never.md",
+            "file": "TypeScript/型別宣告/enum.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/型別宣告/never.md",
+                "file": "TypeScript/型別宣告/enum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +102,15 @@
   },
   "active": "9993ca2dfc087a01",
   "lastOpenFiles": [
+    "TypeScript/型別宣告/enum.md",
+    "TypeScript/型別宣告/unknown.md",
     "TypeScript/型別宣告/never.md",
     "TypeScript/型別宣告/型別斷言.md",
     "TypeScript/型別宣告/any.md",
     "TypeScript/型別宣告/型別註記.md",
     "TypeScript/型別宣告/型別宣告.md",
-    "TypeScript/型別宣告/enum.md",
     "TypeScript/型別宣告/Tuple.md",
     "JavaScript/Object/Option.md",
-    "JavaScript/Object 物件/navigator.md",
-    "JavaScript/Object 物件/未命名.md"
+    "JavaScript/Object 物件/navigator.md"
   ]
 }
