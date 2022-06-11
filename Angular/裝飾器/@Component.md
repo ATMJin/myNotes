@@ -13,7 +13,7 @@ aliases: []
 })
 ```
 
-@Component 裝飾器有以下屬性:
+@Component 裝飾器常用的屬性有以下:
 
 -   selector
     元件被使用時的名稱，格式是 "前字元 + 元件名稱"
