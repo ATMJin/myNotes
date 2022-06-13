@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Angular/單向綁定.md",
+            "file": "Angular/Angular模組.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/單向綁定.md",
+                "file": "Angular/Angular模組.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +102,15 @@
   },
   "active": "9993ca2dfc087a01",
   "lastOpenFiles": [
+    "Angular/Angular模組.md",
+    "Angular/Angular資料結構.md",
+    "Angular/Angular元件.md",
+    "Angular/Angular CLI.md",
     "Angular/單向綁定.md",
     "Angular/事件綁定.md",
-    "JavaScript/短路運算.md",
-    "JavaScript/陳述式.md",
-    "JavaScript/表達式.md",
     "Angular/裝飾器/@NgModule.md",
     "Angular/裝飾器/@Component.md",
-    "Angular/Angular元件.md",
-    "Angular/Angular資料結構.md",
-    "Angular/Angular模組.md"
+    "Angular/指令/ngFor.md",
+    "Angular/內建模組/HttpClientModule.md"
   ]
 }
