@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Angular/Angular CLI.md",
+            "file": "Angular/指令/ngFor.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/Angular CLI.md",
+                "file": "Angular/指令/ngFor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +102,15 @@
   },
   "active": "3688b378aa54c544",
   "lastOpenFiles": [
+    "Angular/指令/ngFor.md",
+    "Angular/單向綁定.md",
+    "Angular/裝飾器/@Component.md",
+    "Angular/Angular元件.md",
     "Angular/Angular CLI.md",
     "Angular/Angular模組.md",
     "Angular/Angular服務元件.md",
-    "Angular/Angular元件.md",
     "Angular/Angular資料結構.md",
     "conflict-files-obsidian-git.md",
-    "Git/Git操作.md",
-    "Angular/單向綁定.md",
-    "Angular/事件綁定.md",
-    "JavaScript/短路運算.md"
+    "Git/Git操作.md"
   ]
 }
