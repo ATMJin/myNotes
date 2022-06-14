@@ -25,7 +25,7 @@ $ ng g c 元件名稱 [參數]
 
 ### 參數
 
-使用 Angular CLI 指令建立元件時輸入的參數常用的有:
+使用 [[Angular CLI]] 指令建立元件時輸入的參數常用的有:
 
 -   --inline-template (-t) / --inline-style (-s)
     可將頁面模板與樣式都放在元件內，類似 Vue 的 SFC，而非各自單獨檔案
