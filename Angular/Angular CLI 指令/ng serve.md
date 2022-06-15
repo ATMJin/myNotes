@@ -10,7 +10,7 @@ tags: [angular, angularCLI]
 ## 參數
 
 ### --host
-設定要監聽的主機，字串型別，預設localhost
+設定要配置的伺服器位置，字串型別，預設localhost
 
 ### --live-reload
 是否及時更新畫面，布林值，預設true
