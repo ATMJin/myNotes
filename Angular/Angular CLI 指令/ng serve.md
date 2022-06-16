@@ -11,6 +11,7 @@ tags: [angular, angularCLI]
 
 ### --host
 設定要配置的伺服器位置，字串型別，預設localhost
+--host=0.0.0.0，在相同區網下使用區網ip可連到架專案電腦
 
 ### --live-reload
 是否及時更新畫面，布林值，預設true
