@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Angular/FormGroup.md",
+            "file": "JavaScript/陣列.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/FormGroup.md",
+                "file": "JavaScript/陣列.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +102,7 @@
   },
   "active": "3688b378aa54c544",
   "lastOpenFiles": [
+    "JavaScript/陣列.md",
     "Angular/FormGroup.md",
     "工作日誌/0616.md",
     "工作日誌/0615.md",
@@ -110,7 +111,6 @@
     "Template/日期別名tag.md",
     "Angular/Angular CLI 指令/ng serve.md",
     "Angular/裝飾器/@NgModule.md",
-    "範例專案/package.json.md",
-    "node/node直接執行程式.md"
+    "範例專案/package.json.md"
   ]
 }
