@@ -1,3 +1,10 @@
+---
+date: 2022-06-20
+aliases: []
+tags: [git]
+---
+# 基本 git 操作指令
+
 基本終端機操作指令同Linux，如ls、cd、pwd、rm......等
 一開始要對欲進行管理的資料夾進行初始化，輸入`git init`
 查看當前專案版本，`git log`
