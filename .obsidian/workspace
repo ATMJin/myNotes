@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/replace.md",
+            "file": "JavaScript/陣列.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/replace.md",
+                "file": "JavaScript/陣列.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +102,15 @@
   },
   "active": "3688b378aa54c544",
   "lastOpenFiles": [
-    "JavaScript/replace.md",
-    "JavaScript/字串.md",
     "JavaScript/陣列.md",
+    "JavaScript/物件.md",
+    "JavaScript/字串.md",
+    "JavaScript/replace.md",
     "TypeScript/型別宣告/型別斷言.md",
     "TypeScript/型別宣告/型別註記.md",
     "TypeScript/型別宣告/enum.md",
     "Git/git 操作指令.md",
     "Angular/生命週期.md",
-    "Angular/表單/響應式表單/Reactive Form.md",
-    "Angular/內建模組/ReactiveFormsModule.md"
+    "Angular/表單/響應式表單/Reactive Form.md"
   ]
 }
