@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3688b378aa54c544",
+        "id": "9993ca2dfc087a01",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TypeScript/型別宣告/介面.md",
+            "file": "Vue/Vite.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/型別宣告/介面.md",
+                "file": "Vue/Vite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,17 +100,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3688b378aa54c544",
+  "active": "9993ca2dfc087a01",
   "lastOpenFiles": [
-    "TypeScript/型別宣告/介面.md",
-    "TypeScript/型別宣告/enum.md",
-    "TypeScript/型別宣告/型別註記.md",
-    "Git/git 操作指令.md",
-    "JavaScript/陣列.md",
-    "JavaScript/物件.md",
-    "JavaScript/字串.md",
-    "JavaScript/replace.md",
-    "TypeScript/型別宣告/型別斷言.md",
-    "Angular/生命週期.md"
+    "Vue/Vite.md",
+    "Angular/Angular CLI.md",
+    "Angular/指令/ngFor.md",
+    "Vue/指令/v-model.md",
+    "Vue/指令/v-if.md",
+    "Vue/生命週期.md",
+    "JavaScript/Object/宣告物件.md",
+    "node/node直接執行程式.md",
+    "Angular/Angular元件.md",
+    "Angular/Angular模組.md"
   ]
 }
