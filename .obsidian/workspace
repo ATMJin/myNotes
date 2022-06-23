@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/陣列.md",
+            "file": "Angular/指令/ngFor.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/陣列.md",
+                "file": "Angular/指令/ngFor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,11 +102,11 @@
   },
   "active": "3688b378aa54c544",
   "lastOpenFiles": [
+    "Angular/指令/ngFor.md",
     "JavaScript/陣列.md",
     "範例專案/專案架構.md",
     "範例專案/開發流程.md",
     "範例專案/package.json.md",
-    "Angular/指令/ngFor.md",
     "Angular/Angular CLI 指令/ng serve.md",
     "TypeScript/型別宣告/介面.md",
     "TypeScript/型別宣告/enum.md",
