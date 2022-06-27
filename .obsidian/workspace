@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/JavaScript架構.md",
+            "file": "JavaScript/DOM操作/js事件.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/JavaScript架構.md",
+                "file": "JavaScript/DOM操作/js事件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +103,7 @@
   },
   "active": "3688b378aa54c544",
   "lastOpenFiles": [
+    "JavaScript/DOM操作/js事件.md",
     "JavaScript/JavaScript架構.md",
     "JavaScript/DOM操作/設定事件.md",
     "JavaScript/物件.md",
@@ -111,7 +112,6 @@
     "JavaScript/陣列.md",
     "Angular/Angular元件.md",
     "Angular/Angular CLI.md",
-    "Angular/單向綁定.md",
-    "Angular/Angular服務元件.md"
+    "Angular/單向綁定.md"
   ]
 }
