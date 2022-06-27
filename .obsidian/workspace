@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Angular/Angular元件.md",
+            "file": "JavaScript/JavaScript架構.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "事件",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/Angular元件.md",
+                "file": "JavaScript/JavaScript架構.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +103,15 @@
   },
   "active": "3688b378aa54c544",
   "lastOpenFiles": [
+    "JavaScript/JavaScript架構.md",
+    "JavaScript/DOM操作/設定事件.md",
+    "JavaScript/物件.md",
+    "Angular/事件綁定.md",
+    "JavaScript/DOM操作/事件物件.md",
+    "JavaScript/陣列.md",
     "Angular/Angular元件.md",
     "Angular/Angular CLI.md",
     "Angular/單向綁定.md",
-    "Angular/Angular服務元件.md",
-    "Angular/Angular資料結構.md",
-    "Angular/Angular模組.md",
-    "Angular/Angular CLI 指令/ng serve.md",
-    "CSS/flexbox.md",
-    "Angular/指令/ngFor.md",
-    "JavaScript/陣列.md"
+    "Angular/Angular服務元件.md"
   ]
 }
