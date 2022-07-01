@@ -17,6 +17,7 @@ constructor( router: Router ) {}
 
 // navigate 使用字串陣列
 this.router.navigate(['task', 'list']);
-// 
+// navigateByUrl 直接使用字串
+this.router.navigateByUrl('task/list');
 ```
 
