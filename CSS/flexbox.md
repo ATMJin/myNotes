@@ -1,4 +1,5 @@
 - 自動排列且自動分配寬度，屬於區塊類型
+-  ==設定後其子元素會變成display: block==
 - 內部Items預設等高
 # Container設定
 - 設定flex屬性的元素稱作Container，第一層子元素稱作Items

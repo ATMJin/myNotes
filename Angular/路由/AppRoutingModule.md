@@ -32,5 +32,15 @@ const routes: Routes = [
 ```
 
 設定好後即可用 [[RouterLink]] 建立連結及用 [[RouterOutlet]] 切換顯示 Component。
+或是在 ts 中使用 [[Router 類型]] 
 
+## 萬用路由 (wildcard route) 
 
+```ts
+{
+  path: '**',
+  component: 要顯示的Component,
+}
+```
+任何路徑都會導向指定 Component 
+如果設在路徑設定的最前面，會無法連到其他路徑。

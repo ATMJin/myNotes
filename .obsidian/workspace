@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Angular/Router/AppRoutingModule.md",
+            "file": "Angular/路由/Router 類型.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/Router/AppRoutingModule.md",
+                "file": "Angular/路由/Router 類型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +102,15 @@
   },
   "active": "de949792987097a6",
   "lastOpenFiles": [
-    "Angular/Router/AppRoutingModule.md",
-    "Angular/Router/RouterOutlet.md",
+    "Angular/路由/Router 類型.md",
+    "Angular/路由/AppRoutingModule.md",
+    "CSS/flexbox.md",
+    "Markdown語法.md",
+    "CSS/屬性/float.md",
+    "Angular/路由/RouterLink.md",
+    "Angular/路由/RouterOutlet.md",
     "Angular/Angular元件.md",
     "Angular/內建模組/RouterModule.md",
-    "Angular/內建模組/ReactiveFormsModule.md",
-    "Angular/內建模組/HttpClientModule.md",
-    "Angular/Angular CLI 指令/ng serve.md",
-    "Angular/指令/ngFor.md",
-    "CSS/flexbox.md",
-    "Angular/生命週期.md"
+    "Angular/內建模組/ReactiveFormsModule.md"
   ]
 }
