@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "JavaScript/JavaScript架構.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,6 +103,7 @@
   "active": "de949792987097a6",
   "lastOpenFiles": [
     "JavaScript/JavaScript架構.md",
+    "Git/git 操作指令.md",
     "他人筆記/淺談 Angular 元件生命週期.md",
     "他人筆記/Angular 概述.md",
     "Angular/路由/RouterOutlet.md",
@@ -111,7 +111,6 @@
     "Angular/路由/AppRoutingModule.md",
     "Angular/路由/Router 類型.md",
     "Angular/路由/路由資料傳遞.md",
-    "CSS/flexbox.md",
-    "Markdown語法.md"
+    "CSS/flexbox.md"
   ]
 }
