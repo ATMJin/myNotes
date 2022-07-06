@@ -33,6 +33,8 @@ $ ng g c 元件名稱 [參數]
     設定元件名稱的前面字元，如`app-root`前面的`app`。
 -   --skip-selector
     省略 [[@Component]] 裡面的 selector 屬性。
+-   --skip-tests
+    省略 spec 測試檔。
 -   --module (-m)
     專案有複數模組時，指定元件是哪個模組的。
 -   --export
