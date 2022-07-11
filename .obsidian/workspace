@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/Math/Math方法.md",
+            "file": "Tailwind/component.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Math/Math方法.md",
+                "file": "Tailwind/component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +102,8 @@
   },
   "active": "de949792987097a6",
   "lastOpenFiles": [
+    "Tailwind/component.md",
+    "英文翻譯.md",
     "JavaScript/Math/Math方法.md",
     "JavaScript/Math/Math.md",
     "CSS/屬性/text-decoration.md",
@@ -109,8 +111,6 @@
     "HTML/標記元素/底線.md",
     "CSS/flexbox.md",
     "Angular/Angular CLI.md",
-    "Git/git 操作指令.md",
-    "JavaScript/JavaScript架構.md",
-    "他人筆記/淺談 Angular 元件生命週期.md"
+    "Git/git 操作指令.md"
   ]
 }
