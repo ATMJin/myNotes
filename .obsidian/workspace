@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tailwind/component.md",
+            "file": "Angular/指令/ngSwitch.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tailwind/component.md",
+                "file": "Angular/指令/ngSwitch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +102,7 @@
   },
   "active": "de949792987097a6",
   "lastOpenFiles": [
+    "Angular/指令/ngSwitch.md",
     "Tailwind/component.md",
     "英文翻譯.md",
     "JavaScript/Math/Math方法.md",
@@ -110,7 +111,6 @@
     "CSS/CSS屬性.md",
     "HTML/標記元素/底線.md",
     "CSS/flexbox.md",
-    "Angular/Angular CLI.md",
-    "Git/git 操作指令.md"
+    "Angular/Angular CLI.md"
   ]
 }
