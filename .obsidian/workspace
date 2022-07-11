@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Angular/指令/ngSwitch.md",
+            "file": "HTML/標記元素/table.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "型別",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/指令/ngSwitch.md",
+                "file": "HTML/標記元素/table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +102,15 @@
   },
   "active": "de949792987097a6",
   "lastOpenFiles": [
+    "HTML/標記元素/table.md",
+    "CSS/CSS屬性.md",
     "Angular/指令/ngSwitch.md",
     "Tailwind/component.md",
     "英文翻譯.md",
     "JavaScript/Math/Math方法.md",
     "JavaScript/Math/Math.md",
     "CSS/屬性/text-decoration.md",
-    "CSS/CSS屬性.md",
     "HTML/標記元素/底線.md",
-    "CSS/flexbox.md",
-    "Angular/Angular CLI.md"
+    "CSS/flexbox.md"
   ]
 }
