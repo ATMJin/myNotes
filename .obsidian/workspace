@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Angular/Material/Material Button.md",
+            "file": "Angular/Material/Material Divider.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/Material/Material Button.md",
+                "file": "Angular/Material/Material Divider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +102,7 @@
   },
   "active": "de949792987097a6",
   "lastOpenFiles": [
+    "Angular/Material/Material Divider.md",
     "Angular/Material/Material Button.md",
     "Git/git 操作指令.md",
     "JavaScript/JavaScript架構.md",
@@ -110,7 +111,6 @@
     "Angular/路由/RouterOutlet.md",
     "Angular/路由/RouterLink.md",
     "Angular/路由/AppRoutingModule.md",
-    "Angular/路由/Router 類型.md",
-    "Angular/路由/路由資料傳遞.md"
+    "Angular/路由/Router 類型.md"
   ]
 }
