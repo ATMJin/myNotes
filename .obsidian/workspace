@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Angular/Angular CLI 指令/ng generate.md",
+            "file": "CSS/grid.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/Angular CLI 指令/ng generate.md",
+                "file": "CSS/grid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +102,7 @@
   },
   "active": "de949792987097a6",
   "lastOpenFiles": [
+    "CSS/grid.md",
     "Angular/Angular CLI 指令/ng generate.md",
     "Angular/Angular CLI 指令/ng serve.md",
     "Angular/Angular CLI 指令/ng new.md",
@@ -110,7 +111,6 @@
     "HTML/標記元素/table.md",
     "CSS/CSS屬性.md",
     "Angular/指令/ngSwitch.md",
-    "Tailwind/component.md",
-    "英文翻譯.md"
+    "Tailwind/component.md"
   ]
 }
