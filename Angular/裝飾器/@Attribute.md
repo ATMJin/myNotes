@@ -10,5 +10,7 @@ tags: [angular]
 差異在此為不變的常數值，且要寫在建構式內。
 
 ```ts
-
+constructor(
+  @Attribute("PropertyA") public PropertyA: string
+) {}
 ```

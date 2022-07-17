@@ -21,6 +21,6 @@ tags: [angular]
 import { Input } from '@angular/core';
 
 export class ChildComponent {
-  @Input PropertyA
+  @Input PropertyA: string
 }
 ```

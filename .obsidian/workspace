@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Angular/裝飾器/@Attribute.md",
+            "file": "Angular/裝飾器/@Output.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/裝飾器/@Attribute.md",
+                "file": "Angular/裝飾器/@Output.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +102,15 @@
   },
   "active": "de949792987097a6",
   "lastOpenFiles": [
+    "Angular/裝飾器/@NgModule.md",
+    "Angular/裝飾器/@Component.md",
+    "Angular/裝飾器/@Attribute.md",
     "Angular/裝飾器/@Input.md",
+    "Angular/裝飾器/@Output.md",
     "HTML/html開頭.md",
     "Angular/Angular CLI 指令/ng generate.md",
     "Angular/Angular CLI 指令/ng serve.md",
     "Angular/Angular CLI 指令/ng new.md",
-    "Angular/生命週期.md",
-    "conflict-files-obsidian-git.md",
-    "HTML/標記元素/table.md",
-    "CSS/CSS屬性.md",
-    "Angular/指令/ngSwitch.md"
+    "Angular/生命週期.md"
   ]
 }
