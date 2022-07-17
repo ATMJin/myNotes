@@ -102,6 +102,7 @@
   },
   "active": "de949792987097a6",
   "lastOpenFiles": [
+    "HTML/html開頭.md",
     "Angular/Angular CLI 指令/ng generate.md",
     "Angular/Angular CLI 指令/ng serve.md",
     "Angular/Angular CLI 指令/ng new.md",
@@ -110,7 +111,6 @@
     "HTML/標記元素/table.md",
     "CSS/CSS屬性.md",
     "Angular/指令/ngSwitch.md",
-    "Tailwind/component.md",
-    "英文翻譯.md"
+    "Tailwind/component.md"
   ]
 }
