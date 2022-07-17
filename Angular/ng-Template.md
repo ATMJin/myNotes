@@ -21,3 +21,22 @@ tags: [angular]
 <div *ngTemplateOutlet="sample"></div>
 ```
 
+
+也可傳入參數，如:
+```html
+<ng-template #sample let-myName="name">
+  My name is {{myName}}.
+</ng-template>
+
+<div *ngTemplateOutlet="sample; context: {name: 'Jin'}"></div>
+```
+
+或是用 $implicit 設定預設參數
+
+```html
+<ng-template #sample let-myName>
+  My name is {{myName}}.
+</ng-template>
+
+<div *ngTemplateOutlet="sample; context: {$implicit: 'Jin'}"></div>
+```
