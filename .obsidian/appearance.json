@@ -1,5 +1,6 @@
 {
   "baseFontSize": 16,
   "translucency": true,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "monospaceFontFamily": "Hack Nerd Font Mono"
 }
