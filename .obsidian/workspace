@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "de949792987097a6",
+        "id": "2fa5f50d61e24e6b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Angular/ng-Template.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/ng-Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,17 +94,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "de949792987097a6",
+  "active": "2fa5f50d61e24e6b",
   "lastOpenFiles": [
+    "Angular/指令/ngFor.md",
+    "Angular/裝飾器/@Directive.md",
+    "Angular/生命週期.md",
+    "Angular/ng-Template.md",
     "Angular/裝飾器/@Output.md",
     "HTML/html開頭.md",
     "Angular/Angular CLI 指令/ng generate.md",
     "Angular/Angular CLI 指令/ng serve.md",
     "Angular/Angular CLI 指令/ng new.md",
-    "Angular/生命週期.md",
-    "conflict-files-obsidian-git.md",
-    "HTML/標記元素/table.md",
-    "CSS/CSS屬性.md",
-    "Angular/指令/ngSwitch.md"
+    "conflict-files-obsidian-git.md"
   ]
 }

@@ -32,3 +32,16 @@ tags: [angular]
      let oddRecord = odd">
 </div>
 ```
+
+
+## ngFor
+
+帶星號的 ngFor 實際為一個語法糖，最後會轉換成 ng-template
+
+```html
+<div *ngFor="let item of items"> {{ item }} </div>
+<!-- 轉變成 -->
+<ng-template ngFor let-item [ngForOf]="items">
+  <div> {{ item }} </div>
+</ng-template>
+```
