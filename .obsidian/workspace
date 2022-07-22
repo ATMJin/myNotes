@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Angular/路由/AppRoutingModule.md",
+            "file": "Angular/裝飾器/@ViewChild.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/路由/AppRoutingModule.md",
+                "file": "Angular/裝飾器/@ViewChild.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,8 +100,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "de949792987097a6",
+  "active": "57dd65060fab5440",
   "lastOpenFiles": [
+    "Angular/Angular服務元件.md",
     "Angular/路由/AppRoutingModule.md",
     "Angular/路由/RouterLink.md",
     "Angular/路由/Router 類型.md",
@@ -110,7 +111,6 @@
     "Angular/Angular CLI 指令/ng generate.md",
     "Angular/Angular CLI 指令/ng serve.md",
     "Angular/Angular CLI 指令/ng new.md",
-    "Angular/生命週期.md",
-    "conflict-files-obsidian-git.md"
+    "Angular/生命週期.md"
   ]
 }
