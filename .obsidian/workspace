@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/陣列.md",
+            "file": "Angular/ng-Template.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/陣列.md",
+                "file": "Angular/ng-Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +102,7 @@
   },
   "active": "de949792987097a6",
   "lastOpenFiles": [
+    "JavaScript/陣列.md",
     "SOILD原則.md",
     "Angular/裝飾器/@ViewChild.md",
     "Angular/Angular服務元件.md",
@@ -110,7 +111,6 @@
     "Angular/路由/Router 類型.md",
     "Angular/路由/RouterOutlet.md",
     "CSS/grid.md",
-    "Angular/Angular CLI 指令/ng generate.md",
-    "Angular/Angular CLI 指令/ng serve.md"
+    "Angular/Angular CLI 指令/ng generate.md"
   ]
 }
