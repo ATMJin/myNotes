@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Angular/ng-Template.md",
+            "file": "HTML/表單/input type.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216
+    "width": 216.5
   },
   "right": {
     "id": "d9f088cd67e69ed7",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/ng-Template.md",
+                "file": "HTML/表單/input type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +102,15 @@
   },
   "active": "de949792987097a6",
   "lastOpenFiles": [
-    "JavaScript/陣列.md",
-    "SOILD原則.md",
-    "Angular/裝飾器/@ViewChild.md",
-    "Angular/Angular服務元件.md",
-    "Angular/路由/AppRoutingModule.md",
-    "Angular/路由/RouterLink.md",
-    "Angular/路由/Router 類型.md",
-    "Angular/路由/RouterOutlet.md",
-    "CSS/grid.md",
-    "Angular/Angular CLI 指令/ng generate.md"
+    "HTML/表單/input.md",
+    "CSS/小技巧/visibility,display,opacity的差異.md",
+    "TypeScript/型別宣告/型別斷言.md",
+    "TypeScript/型別宣告/型別註記.md",
+    "TypeScript/型別宣告/型別宣告.md",
+    "Angular/生命週期.md",
+    "Angular/Angular CLI.md",
+    "Angular/Angular資料結構.md",
+    "Angular/事件綁定.md",
+    "Angular/Angular CLI 指令/ng new.md"
   ]
 }
