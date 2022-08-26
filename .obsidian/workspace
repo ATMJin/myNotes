@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/DOM操作/getComputedStyle.md",
+            "file": "Angular/生命週期.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/DOM操作/getComputedStyle.md",
+                "file": "Angular/生命週期.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +102,7 @@
   },
   "active": "de949792987097a6",
   "lastOpenFiles": [
+    "JavaScript/DOM操作/getComputedStyle.md",
     "JavaScript/陣列.md",
     "HTML/表單/input type.md",
     "HTML/表單/input.md",
@@ -110,7 +111,6 @@
     "TypeScript/型別宣告/型別註記.md",
     "TypeScript/型別宣告/型別宣告.md",
     "Angular/生命週期.md",
-    "Angular/Angular CLI.md",
-    "Angular/Angular資料結構.md"
+    "Angular/Angular CLI.md"
   ]
 }
