@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Angular/指令/ngFor.md",
+            "file": "JavaScript/陣列.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/指令/ngFor.md",
+                "file": "JavaScript/陣列.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +102,7 @@
   },
   "active": "de949792987097a6",
   "lastOpenFiles": [
+    "Angular/指令/ngFor.md",
     "Angular/Angular CLI.md",
     "Angular/Angular CLI 指令/ng new.md",
     "Angular/生命週期.md",
@@ -110,7 +111,6 @@
     "HTML/表單/input type.md",
     "HTML/表單/input.md",
     "CSS/小技巧/visibility,display,opacity的差異.md",
-    "TypeScript/型別宣告/型別斷言.md",
-    "TypeScript/型別宣告/型別註記.md"
+    "TypeScript/型別宣告/型別斷言.md"
   ]
 }
