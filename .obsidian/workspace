@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Angular/裝飾器/@Component.md",
+            "file": "Angular/ng-Template.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/裝飾器/@Component.md",
+                "file": "Angular/ng-Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,14 +103,14 @@
   "active": "de949792987097a6",
   "lastOpenFiles": [
     "Angular/Angular元件.md",
+    "Angular/Angular資料結構.md",
     "Angular/Angular模組.md",
+    "Angular/裝飾器/@Component.md",
     "Angular/Angular CLI 指令/ng new.md",
     "Angular/Angular CLI 指令/ng generate.md",
     "JavaScript/陣列.md",
     "Angular/指令/ngFor.md",
     "Angular/Angular CLI.md",
-    "Angular/生命週期.md",
-    "JavaScript/DOM操作/getComputedStyle.md",
-    "HTML/表單/input type.md"
+    "Angular/生命週期.md"
   ]
 }
