@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Angular/ng-Template.md",
+            "file": "CSS/grid.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 216.5,
+    "collapsed": true
   },
   "right": {
     "id": "d9f088cd67e69ed7",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/ng-Template.md",
+                "file": "CSS/grid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +103,7 @@
   },
   "active": "de949792987097a6",
   "lastOpenFiles": [
+    "Angular/ng-Template.md",
     "Angular/Angular元件.md",
     "Angular/Angular資料結構.md",
     "Angular/Angular模組.md",
@@ -110,7 +112,6 @@
     "Angular/Angular CLI 指令/ng generate.md",
     "JavaScript/陣列.md",
     "Angular/指令/ngFor.md",
-    "Angular/Angular CLI.md",
-    "Angular/生命週期.md"
+    "Angular/Angular CLI.md"
   ]
 }
