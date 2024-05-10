@@ -8,14 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "093560340100d48b",
+            "id": "10d591e38fc73b36",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "RxJS/Observable.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fdda769580ff1ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RxJS/Subscription.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84341a23dcdced13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RxJS/Observer.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e34ab6be635f4559",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RxJS/Creation Operators.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,8 +106,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "因為這個系統上已停用指令碼執行.md",
+                "file": "RxJS/Creation Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,9 +166,18 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "104af22c3ebc4b07",
+  "active": "e34ab6be635f4559",
   "lastOpenFiles": [
+    "RxJS/Observer.md",
+    "RxJS/Creation Operators.md",
+    "RxJS/Observable.md",
+    "RxJS/Subscription.md",
+    "TypeScript/型別宣告/Interface.md",
+    "TypeScript/型別宣告/any.md",
+    "TypeScript/型別宣告/enum.md",
+    "TypeScript/型別宣告/型別斷言.md",
     "Git/git 操作指令.md",
+    "RxJS",
     "因為這個系統上已停用指令碼執行.md",
     "日常雜/2024年節能電器減徵貨物稅.md",
     "日常雜/2024年住宅家電汰舊換新節能補助.md",
