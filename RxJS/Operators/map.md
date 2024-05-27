@@ -6,7 +6,7 @@ tags:
 ---
 # map
 
-用於對 Observable 中的每個值進行映射轉換。這個操作符類似於 JavaScript 中的 `Array.map()` 方法，它允許你對 Observable 中的每個值進行轉換，並返回一個新的 Observable，其中包含映射後的值。
+用於對 [[Observable]] 中的每個值進行映射轉換。這個操作符類似於 JavaScript 中的 `Array.map()` 方法，它允許你對 Observable 中的每個值進行轉換，並返回一個新的 Observable，其中包含映射後的值。
 
 ## 範例
 

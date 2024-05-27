@@ -78,20 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RxJS/Operators/map.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f776117977437bf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RxJS/Operators/merge.md",
+                "file": "RxJS/Operators/mergeMap.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -128,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "map",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RxJS/Operators/merge.md",
+                "file": "RxJS/Operators/mergeMap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,9 +192,10 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "f776117977437bf5",
+  "active": "97d1b4c4d67230fb",
   "lastOpenFiles": [
     "RxJS/Operators/map.md",
+    "JavaScript/陣列.md",
     "RxJS/Operators/merge.md",
     "RxJS/Creation Operators.md",
     "RxJS/Operators/mergeMap.md",
@@ -226,7 +214,6 @@
     "RxJS",
     "因為這個系統上已停用指令碼執行.md",
     "日常雜",
-    "JavaScript/陣列.md",
     "CSS/grid.md",
     "Angular/ng-Template.md",
     "Angular/Angular元件.md",
