@@ -1,3 +1,10 @@
+---
+date: 
+aliases: 
+tags:
+  - HTML
+---
+
 播放影片，相關屬性如下:
 - src  檔案的位置(若子元素有source就不需要)
 - controls  顯示原生的內建控制器

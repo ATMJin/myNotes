@@ -1,5 +1,8 @@
 ---
-aliases: [連結]
+aliases:
+  - 連結
+tags:
+  - HTML
 ---
 \<a>  連結，使用方法如:
 ```html

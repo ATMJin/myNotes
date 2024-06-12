@@ -1,3 +1,10 @@
+---
+date: 
+aliases: 
+tags:
+  - HTML
+---
+
 一般在編輯HTML時，最前面會進行以下宣告，告知瀏覽器
 ```html
 <!DOCTYPE html>
