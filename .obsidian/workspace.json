@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/標記元素/ruby.md",
+                "file": "HTML/html開頭.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/標記元素/ruby.md",
+                "file": "HTML/html開頭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +168,8 @@
   },
   "active": "84341a23dcdced13",
   "lastOpenFiles": [
+    "HTML/自訂屬性.md",
+    "HTML/標記元素/ruby.md",
     "HTML/標記元素/hr.md",
     "HTML/標記元素/data.md",
     "HTML/多媒體/audio.md",
@@ -176,7 +178,6 @@
     "HTML/canvas.md",
     "HTML/添加CSS.md",
     "HTML/特殊符號.md",
-    "HTML/標記元素/ruby.md",
     "HTML/標記元素/刪除線.md",
     "HTML/標記元素/blockquote.md",
     "HTML/標記元素/abbr.md",
@@ -194,7 +195,6 @@
     "Git/git 操作指令.md",
     "RxJS/Operators/mergeMap.md",
     "RxJS/Operators/map.md",
-    "JavaScript/陣列.md",
     "RxJS/Operators",
     "RxJS",
     "Others/日常雜"
