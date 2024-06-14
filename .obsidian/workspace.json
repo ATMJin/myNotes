@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/標記元素/time.md",
+                "file": "CSS/選擇器/結合器.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/標記元素/time.md",
+                "file": "CSS/選擇器/結合器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +168,9 @@
   },
   "active": "84341a23dcdced13",
   "lastOpenFiles": [
+    "CSS/選擇器/選擇器.md",
+    "CSS/選擇器/權重.md",
+    "HTML/標記元素/time.md",
     "HTML/結構元素/div、section、article使用差異.md",
     "HTML/標記元素/強調.md",
     "HTML/標記元素/script.md",
@@ -191,10 +194,7 @@
     "HTML/標記元素/a.md",
     "RxJS/Observer.md",
     "HTML/noscript.md",
-    "HTML/pre.md",
-    "Others/教召紀錄.md",
     "Others/assets",
-    "imges/範例專案import鏈地圖.jpg.md",
     "RxJS/Operators",
     "RxJS",
     "Others/日常雜"
