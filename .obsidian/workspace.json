@@ -39,20 +39,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/html開頭.md",
+                "file": "HTML/圖片.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "31ae32a1e0d51cb6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
               }
             }
           },
@@ -70,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/html開頭.md",
+                "file": "HTML/圖片.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,8 +166,9 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "31ae32a1e0d51cb6",
+  "active": "84341a23dcdced13",
   "lastOpenFiles": [
+    "HTML/html開頭.md",
     "HTML/自訂屬性.md",
     "HTML/標記元素/ruby.md",
     "HTML/標記元素/hr.md",
@@ -194,7 +185,6 @@
     "HTML/標記元素/a.md",
     "RxJS/Observer.md",
     "HTML/標記元素一覽.md",
-    "HTML/html開頭.md",
     "HTML/noscript.md",
     "HTML/pre.md",
     "Others/教召紀錄.md",
