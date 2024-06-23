@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/選擇器/結合器.md",
+                "file": "CSS/CSS屬性.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "map",
+                "query": "圖片",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/選擇器/結合器.md",
+                "file": "CSS/CSS屬性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +169,9 @@
   },
   "active": "84341a23dcdced13",
   "lastOpenFiles": [
+    "HTML/圖片.md",
+    "CSS/屬性/position.md",
+    "CSS/選擇器/結合器.md",
     "CSS/選擇器/選擇器.md",
     "CSS/選擇器/權重.md",
     "HTML/標記元素/time.md",
@@ -178,7 +182,6 @@
     "HTML/標記元素一覽.md",
     "HTML/標記元素/data.md",
     "HTML/結構元素/div.md",
-    "HTML/圖片.md",
     "HTML/html開頭.md",
     "HTML/自訂屬性.md",
     "HTML/標記元素/ruby.md",
@@ -192,8 +195,6 @@
     "HTML/標記元素/刪除線.md",
     "HTML/標記元素/abbr.md",
     "HTML/標記元素/a.md",
-    "RxJS/Observer.md",
-    "HTML/noscript.md",
     "Others/assets",
     "RxJS/Operators",
     "RxJS",
