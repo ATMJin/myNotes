@@ -39,8 +39,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/CSS屬性.md",
+                "file": "JavaScript/字串.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfb7b61043e7f3f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/資料型別.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -89,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "圖片",
+                "query": "型別",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,8 +119,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -127,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/CSS屬性.md",
+                "file": "JavaScript/資料型別.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,34 +179,34 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "84341a23dcdced13",
+  "active": "bfb7b61043e7f3f3",
   "lastOpenFiles": [
+    "JavaScript/JavaScript架構.md",
+    "JavaScript/資料型別.md",
+    "JavaScript/字串.md",
+    "JavaScript/falsy value.md",
+    "JavaScript/表達式.md",
+    "JavaScript/物件.md",
+    "JavaScript/函式.md",
+    "JavaScript/匿名函式.md",
+    "JavaScript/計時器.md",
+    "JavaScript/處理錯誤.md",
+    "JavaScript/構造函數or建構函數.md",
+    "JavaScript/模組.md",
+    "JavaScript/switch.md",
+    "JavaScript/JavaScript位置.md",
+    "JavaScript/JavaScript運算子.md",
+    "JavaScript/JavaScript宣告.md",
+    "JavaScript/Number方法.md",
+    "JavaScript/replace.md",
+    "JavaScript/while.md",
+    "JavaScript/一般JavaScript命名規則.md",
+    "JavaScript/truthy value.md",
+    "因為這個系統上已停用指令碼執行.md",
+    "CSS/CSS屬性.md",
     "HTML/圖片.md",
     "CSS/屬性/position.md",
     "CSS/選擇器/結合器.md",
-    "CSS/選擇器/選擇器.md",
-    "CSS/選擇器/權重.md",
-    "HTML/標記元素/time.md",
-    "HTML/結構元素/div、section、article使用差異.md",
-    "HTML/標記元素/強調.md",
-    "HTML/標記元素/script.md",
-    "HTML/標記元素/blockquote.md",
-    "HTML/標記元素一覽.md",
-    "HTML/標記元素/data.md",
-    "HTML/結構元素/div.md",
-    "HTML/html開頭.md",
-    "HTML/自訂屬性.md",
-    "HTML/標記元素/ruby.md",
-    "HTML/標記元素/hr.md",
-    "HTML/多媒體/audio.md",
-    "HTML/多媒體/video.md",
-    "HTML/多媒體/canvas.md",
-    "HTML/canvas.md",
-    "HTML/添加CSS.md",
-    "HTML/特殊符號.md",
-    "HTML/標記元素/刪除線.md",
-    "HTML/標記元素/abbr.md",
-    "HTML/標記元素/a.md",
     "Others/assets",
     "RxJS/Operators",
     "RxJS",
