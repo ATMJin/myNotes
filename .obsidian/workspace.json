@@ -52,10 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/資料型別.md",
+                "file": "JavaScript/函式.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "f0872da836880ebd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
               }
             }
           },
@@ -73,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/資料型別.md",
+                "file": "JavaScript/函式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,16 +189,17 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "bfb7b61043e7f3f3",
+  "active": "f0872da836880ebd",
   "lastOpenFiles": [
+    "JavaScript/匿名函式.md",
+    "JavaScript/函式.md",
+    "JavaScript/箭頭函式.md",
     "JavaScript/JavaScript架構.md",
     "JavaScript/資料型別.md",
     "JavaScript/字串.md",
     "JavaScript/falsy value.md",
     "JavaScript/表達式.md",
     "JavaScript/物件.md",
-    "JavaScript/函式.md",
-    "JavaScript/匿名函式.md",
     "JavaScript/計時器.md",
     "JavaScript/處理錯誤.md",
     "JavaScript/構造函數or建構函數.md",
@@ -206,7 +217,6 @@
     "CSS/CSS屬性.md",
     "HTML/圖片.md",
     "CSS/屬性/position.md",
-    "CSS/選擇器/結合器.md",
     "Others/assets",
     "RxJS/Operators",
     "RxJS",
