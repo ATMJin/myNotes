@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9453d393cef67673",
+        "id": "004cf9f597c08f08",
         "type": "tabs",
         "children": [
           {
-            "id": "10d591e38fc73b36",
+            "id": "fbd8db51372730c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RxJS/Observable.md",
+                "file": "Python/容器/list.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "6fdda769580ff1ae",
+            "id": "c3280f59c7022b01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RxJS/Subscription.md",
+                "file": "Python/容器/set.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "84341a23dcdced13",
+            "id": "7b42faf11921f43f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/字串.md",
+                "file": "Python/容器/dict.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,25 +47,25 @@
             }
           },
           {
-            "id": "bfb7b61043e7f3f3",
+            "id": "c544f5dd2258a2c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/JavaScript架構.md",
-                "mode": "preview",
+                "file": "Python/路徑字串.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "207b1231099b91f1",
+            "id": "1220526b9f978bf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/標記元素/a.md",
+                "file": "Python/lambda.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "型別",
+                "query": "tuple",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/JavaScript架構.md",
+                "file": "Python/lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,15 +179,28 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "bfb7b61043e7f3f3",
+  "active": "1220526b9f978bf7",
   "lastOpenFiles": [
+    "Python/檔案操作",
+    "Python/路徑字串.md",
+    "Python/lambda.md",
+    "Python/容器/dict.md",
+    "TypeScript/型別宣告/Tuple.md",
+    "Python/容器/list.md",
+    "Python/容器/set.md",
+    "Python/容器/tuple.md",
+    "雜知識/大將軍與天下人.md",
+    "雜知識/天皇在幕府時代的日常活動.md",
+    "雜知識",
+    "Python/容器",
+    "JavaScript/JavaScript架構.md",
+    "Python",
     "JavaScript/構造函數or建構函數.md",
     "JavaScript/字串.md",
     "JavaScript/this.md",
     "JavaScript/函式.md",
     "JavaScript/匿名函式.md",
     "JavaScript/箭頭函式.md",
-    "JavaScript/JavaScript架構.md",
     "JavaScript/資料型別.md",
     "JavaScript/falsy value.md",
     "JavaScript/表達式.md",
@@ -197,16 +210,6 @@
     "JavaScript/模組.md",
     "JavaScript/switch.md",
     "JavaScript/JavaScript位置.md",
-    "JavaScript/JavaScript運算子.md",
-    "JavaScript/JavaScript宣告.md",
-    "JavaScript/Number方法.md",
-    "JavaScript/replace.md",
-    "JavaScript/while.md",
-    "JavaScript/一般JavaScript命名規則.md",
-    "JavaScript/truthy value.md",
-    "因為這個系統上已停用指令碼執行.md",
-    "CSS/CSS屬性.md",
-    "HTML/圖片.md",
     "Others/assets",
     "RxJS/Operators",
     "RxJS",

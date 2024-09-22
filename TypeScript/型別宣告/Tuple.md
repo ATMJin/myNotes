@@ -1,6 +1,9 @@
 ---
 date: 2022-05-16
-aliases: [元組]
+aliases:
+  - 元組
+tags:
+  - TypeScript
 ---
 # Tuple
 推測是來自中國的翻譯，參考自數組。
