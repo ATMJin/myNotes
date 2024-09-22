@@ -52,20 +52,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/函式.md",
+                "file": "JavaScript/JavaScript架構.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "f0872da836880ebd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
               }
             }
           },
@@ -83,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/函式.md",
+                "file": "JavaScript/JavaScript架構.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,20 +179,21 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "f0872da836880ebd",
+  "active": "bfb7b61043e7f3f3",
   "lastOpenFiles": [
-    "JavaScript/匿名函式.md",
+    "JavaScript/構造函數or建構函數.md",
+    "JavaScript/字串.md",
+    "JavaScript/this.md",
     "JavaScript/函式.md",
+    "JavaScript/匿名函式.md",
     "JavaScript/箭頭函式.md",
     "JavaScript/JavaScript架構.md",
     "JavaScript/資料型別.md",
-    "JavaScript/字串.md",
     "JavaScript/falsy value.md",
     "JavaScript/表達式.md",
     "JavaScript/物件.md",
     "JavaScript/計時器.md",
     "JavaScript/處理錯誤.md",
-    "JavaScript/構造函數or建構函數.md",
     "JavaScript/模組.md",
     "JavaScript/switch.md",
     "JavaScript/JavaScript位置.md",
@@ -216,7 +207,6 @@
     "因為這個系統上已停用指令碼執行.md",
     "CSS/CSS屬性.md",
     "HTML/圖片.md",
-    "CSS/屬性/position.md",
     "Others/assets",
     "RxJS/Operators",
     "RxJS",
