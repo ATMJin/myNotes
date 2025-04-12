@@ -71,9 +71,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "89d09ec93cfcfca8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -179,7 +189,7 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "1220526b9f978bf7",
+  "active": "89d09ec93cfcfca8",
   "lastOpenFiles": [
     "Python/檔案操作",
     "Python/路徑字串.md",
